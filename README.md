@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-- 🙋‍ More about me: Visit my [website](https://shumbul/github.io)
+- 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)
 - 💬 How to reach me: Drop a hi! message on my [LinkedIn](https://linkedin.com/in/shumbul)
 - 👯 Pronouns: She/Her
 
