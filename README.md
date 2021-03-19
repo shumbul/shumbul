@@ -32,9 +32,9 @@
     <code><img height="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></code>
     </a>
 
-<a href="https://github.com/shumbul">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shumbul&theme=light&hide_langs_below=1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumbul&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/shumbul">
+<a href="https://github-readme-stats.vercel.app/api?username=shumbul&show_icons=true&theme=light&line_height=2">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shumbul&show_icons=true&theme=light&line_height=27" alt="shumbul's github stats"/>
 </a>
