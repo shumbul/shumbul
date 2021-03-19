@@ -5,15 +5,21 @@
 
 </a>
 <a href="https://linkedin.com/in/shumbul">
+  <kbd>
   <img align="left" alt="shumbul's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <kbd>
 </a>
 
 <a href="https://github.com/shumbul">
+  <kbd>
   <img align="left" alt="shumbul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <kbd>
 </a>
 
 <a href="https://gitlab.com/shumbul">
+  <kbd>
   <img align="left" alt="shumbul's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+  <kbd>
 </a>
 
 <br/>
