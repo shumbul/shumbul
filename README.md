@@ -30,7 +30,8 @@
 <a>
   <kbd>
     <code><img height="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></code>
-    </a>
+  </kbd>
+</a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shumbul&theme=light&hide_langs_below=1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumbul&theme=light&hide_langs_below=1" />
