@@ -22,8 +22,9 @@
 <br/>
 <br/>
 
-- 🏫 I am 2022 B.Tech. graduate from NIT Karnataka
-- 💻 I worked as SDE Intern at Qualcomm, India
+- 🏢 I am a Software Engineer at Microsoft
+- 🏫 2022 B.Tech. graduate from NIT Karnataka
+- 💻 Former SDE Intern at Qualcomm, India
 - 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)
-- 💬 How to reach me: Drop a hi! message on my [LinkedIn](https://linkedin.com/in/shumbul)
+- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shumbul)
 - 👯 Pronouns: She/Her
