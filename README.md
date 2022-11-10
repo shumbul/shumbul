@@ -16,10 +16,10 @@
   <kbd>
   <img align="centre" alt="shumbul's Devfolio" width="22px" src="https://avatars.githubusercontent.com/u/38809367?s=280&v=4" />
 </a>
-
-<a href="https://gitlab.com/shumbul">
-  <kbd>
-  <img align="centre" alt="shumbul's Gitlab" width="22px" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" />
+  
+<a href="https://twitter.com/ShumbulArifa">
+<kbd>
+<img align="centre" alt="shumbul's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
 </a>
 
 <a href="mailto:shumbularifa@outlook.com">
