@@ -13,7 +13,7 @@
  
  <a href="https://linktr.ee/shumbul">
   <kbd>
-  <img align="centre" alt="shumbul's LinkTree" width="22px" src="https://media.licdn.com/dms/image/C4D03AQGXjFTafm6f2g/profile-displayphoto-shrink_800_800/0/1658606578560?e=2147483647&v=beta&t=a1GP3SeMUJnHaVTB7z1b-2TOFTWQyorjW3EAvPdLjHA" />
+  <img align="centre" alt="shumbul's LinkTree" width="22px" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" />
 </a>
    
 <a href="https://linkedin.com/in/shumbul">
