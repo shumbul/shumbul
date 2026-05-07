@@ -30,22 +30,22 @@
   
  <a href="https://www.instagram.com/shumbul.arifa/">
   <kbd>
-  <img align="centre" alt="shumbul's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+  <img align="centre" alt="shumbul's Instagram" width="22px" src="https://img.icons8.com/color/48/instagram-new.png" />
 </a>
 
 <a href="https://www.instagram.com/shumbularifa/">
   <kbd>
-  <img align="centre" alt="shumbul's Instagram - personal blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+  <img align="centre" alt="shumbul's Instagram - personal blog" width="22px" src="https://img.icons8.com/color/48/instagram-new.png" />
 </a>
   
-<a href="https://twitter.com/ShumbulArifa">
+<a href="https://x.com/ShumbulArifa">
 <kbd>
-<img align="centre" alt="shumbul's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
+<img align="centre" alt="shumbul's X" width="22px" src="https://img.icons8.com/color/48/twitterx--v1.png" />
 </a>
  
 <a href="https://t.me/ShumbulArifa">
   <kbd>
-  <img align="centre" alt="shumbul's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
+  <img align="centre" alt="shumbul's Telegram" width="22px" src="https://img.icons8.com/color/48/telegram-app.png" />
 </a>
  
 <a href="https://devfolio.co/@shumbul_arifa">
